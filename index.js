@@ -9,4 +9,4 @@ let vaha = 70kg
 let vyska = 1.72cm
 let bmi =  30.3
 
-
+console.log ("jemno" + "vek" + "vaha" + "vyska" + "bmi")
